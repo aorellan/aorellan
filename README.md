@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aorellan
-- 👀 I’m interested in Java Simulations
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Robotics
 - 📫 How to reach me aorellan@uoguelph
 
 <!---
